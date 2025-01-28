@@ -1,8 +1,8 @@
 # DIS MPhil Project 2024-25
 
-Github: https://github.com/james-alvey-42/saqqara-dis-mphil/tree/template-powerlaw
-Branch: dis-mphil
-Paper: https://arxiv.org/pdf/2309.07954
+- Github: https://github.com/james-alvey-42/saqqara-dis-mphil/tree/dis-mphil
+- Branch: dis-mphil
+- Paper: https://arxiv.org/pdf/2309.07954
 
 ## Suggested Install Steps
 
